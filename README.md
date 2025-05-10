@@ -2,7 +2,7 @@
 
 ---
 
-## 🚗 Parking App - CLI in Go
+## 🚗 Parking App - Go
 
 This is a simple command-line parking lot automation system written in Go. It reads commands from a file and simulates a parking lot where cars can be parked, removed, and the parking status viewed.
 
